@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815587454177",
+    "project_id": "fir-pushnotifications-13e12",
+    "storage_bucket": "fir-pushnotifications-13e12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815587454177:android:6abca5379193b131231ba0",
+        "android_client_info": {
+          "package_name": "com.lnight.fcmpushnotificationshttpv1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTJ61_-nLabqpn2X7jMG2j-s6yIPlDCKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
